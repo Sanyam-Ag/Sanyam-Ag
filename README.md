@@ -12,7 +12,7 @@
 ║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
-<img src="https://github.com/Sanyam-Ag/Sanyam-Ag/blob/main/assets/g3.gif?raw=true" width="100%">
+<img src="https://github.com/Sanyam-Ag/Sanyam-Ag/blob/main/assets/g3.gif?raw=true" width="60%">
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
@@ -41,10 +41,10 @@
 ├── LOCATION: Online  
 └─ TIME_ZONE: Night
 ```
-<img src="https://github.com/Sanyam-Ag/Sanyam-Ag/blob/main/assets/g2.gif?raw=true" width="100%">
 
 <div align="center">
-
+<img src="https://github.com/Sanyam-Ag/Sanyam-Ag/blob/main/assets/g2.gif?raw=true" width="60%">
+  
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║
@@ -80,17 +80,17 @@
 
 <div align="center">
 
+<img src="https://github.com/Sanyam-Ag/Sanyam-Ag/blob/main/assets/g_s1.gif?raw=true" width="60%">
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanyam-Ag&show_icons=true&theme=radical&border_color=780000&bg_color=000000&title_color=780000&icon_color=780000&text_color=ff6b6b)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam-Ag&layout=compact&theme=radical&border_color=780000&bg_color=000000&title_color=780000&text_color=ff6b6b)
 
 ![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Sanyam-Ag&theme=monokai-metallian&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanyam-Ag&theme=merko&days=7)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanyam-Ag&theme=merko&days=14)
 
 </div>
-
-<img src="https://github.com/Sanyam-Ag/Sanyam-Ag/blob/main/assets/g_s1.gif?raw=true" width="100%">
 
 <h3 align="center">███░░░░ CONNECT TO MY SERVER ░░░░███</h3>
 
@@ -133,6 +133,6 @@
 System Status: ████████████████████ 100% AWESOME
 ```
 
-</div>
+<img src="https://github.com/Sanyam-Ag/Sanyam-Ag/raw/main/assets/g_e.gif" width="60%">
 
-<img src="https://github.com/Sanyam-Ag/Sanyam-Ag/raw/main/assets/g_e.gif" width="100%">
+</div>
